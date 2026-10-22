@@ -21,4 +21,4 @@ No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué p
 - Responsive en 3 reglas de CSS (flex, grid, clamp)
 
 ## Publicados
-- 2026-10-22 · Tu IA te está inventando código · `02_ia_inventa_codigo/`
+- 2026-10-21 · Tu IA te está inventando código · `02_ia_inventa_codigo/` · https://www.instagram.com/p/DeyGoFiCgQZ/
