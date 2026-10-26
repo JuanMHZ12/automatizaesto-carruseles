@@ -4,7 +4,6 @@ Al publicar uno, muévelo a "Publicados" con la fecha y la carpeta.
 No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué puede hacer, vender tu primera web, Claude mejora tu web, Sonnet vs Opus vs Haiku, buenos prompts, bug del sticky header, mejores IAs de paga/gratis 2026).
 
 ## Pendientes
-- Coyote time: el truco invisible de los juegos de plataformas
 - 5 comandos de Git que te salvan la vida
 - 4 señales de que una web está hecha con plantilla
 - Delta time: por qué tu juego va más rápido en un PC potente
@@ -22,3 +21,4 @@ No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué p
 - 2026-10-21 · Tu IA te está inventando código · `02_ia_inventa_codigo/` · https://www.instagram.com/p/DeyGoFiCgQZ/
 - 2026-10-22 · MCP: el USB de la IA · `03_mcp_usb_ia/` · programado 12:00
 - 2026-10-25 · Por qué la IA falla contando letras · `04_ia_cuenta_letras/` · programado 12:00
+- 2026-10-26 · Coyote time: el truco invisible de los juegos de plataformas · `05_coyote_time/` · programado 12:00
