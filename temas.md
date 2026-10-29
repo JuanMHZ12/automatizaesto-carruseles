@@ -4,7 +4,6 @@ Al publicar uno, muévelo a "Publicados" con la fecha y la carpeta.
 No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué puede hacer, vender tu primera web, Claude mejora tu web, Sonnet vs Opus vs Haiku, buenos prompts, bug del sticky header, mejores IAs de paga/gratis 2026).
 
 ## Pendientes
-- 4 señales de que una web está hecha con plantilla
 - Delta time: por qué tu juego va más rápido en un PC potente
 - Vibe coding: qué es y cuándo se vuelve peligroso
 - La regla de 2 fuentes en diseño web
@@ -22,3 +21,4 @@ No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué p
 - 2026-10-25 · Por qué la IA falla contando letras · `04_ia_cuenta_letras/` · programado 12:00
 - 2026-10-26 · Coyote time: el truco invisible de los juegos de plataformas · `05_coyote_time/` · programado 12:00
 - 2026-10-27 · 5 comandos de Git que te salvan la vida · `06_git_salvavidas/` · programado 12:00
+- 2026-10-28 · 4 señales de que una web está hecha con plantilla · `07_web_plantilla/` · programado 2026-10-29 12:00 (se creó tarde, 12:00 del 28 ya había pasado)
