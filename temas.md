@@ -21,4 +21,4 @@ No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué p
 - 2026-10-28 · 4 señales de que una web está hecha con plantilla · `07_web_plantilla/` · programado 2026-10-29 12:00 (se creó tarde, 12:00 del 28 ya había pasado)
 - 2026-10-30 · Delta time: por qué tu juego va más rápido en un PC potente · `08_delta_time/` · programado 2026-10-31 12:00 (se creó tarde, 12:00 del 30 ya había pasado)
 - 2026-11-01 · Vibe coding: cuándo se vuelve peligroso · `09_vibe_coding/` · programado 2026-11-01 12:00
-- 2026-11-02 · La regla de 2 fuentes en diseño web · `10_regla_2_fuentes/` · programado 2026-11-02 12:00
+- 2026-11-02 · La regla de 2 fuentes en diseño web · `10_regla_2_fuentes/` · IG + TikTok (con música) · programado 2026-11-02 12:00
