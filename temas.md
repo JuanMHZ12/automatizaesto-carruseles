@@ -4,7 +4,6 @@ Al publicar uno, muévelo a "Publicados" con la fecha y la carpeta.
 No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué puede hacer, vender tu primera web, Claude mejora tu web, Sonnet vs Opus vs Haiku, buenos prompts, bug del sticky header, mejores IAs de paga/gratis 2026).
 
 ## Pendientes
-- Cómo leer un error antes de pegarlo en la IA
 - Qué es un agente de IA y en qué se diferencia de un chatbot
 - Modo oscuro bien hecho vs mal hecho
 - Hitboxes: por qué "te dieron" sin tocarte
@@ -21,4 +20,5 @@ No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué p
 - 2026-10-30 · Delta time: por qué tu juego va más rápido en un PC potente · `08_delta_time/` · programado 2026-10-31 12:00 (se creó tarde, 12:00 del 30 ya había pasado)
 - 2026-11-01 · Vibe coding: cuándo se vuelve peligroso · `09_vibe_coding/` · programado 2026-11-01 12:00
 - 2026-11-02 · La regla de 2 fuentes en diseño web · `10_regla_2_fuentes/` · IG + TikTok (con música) · programado 2026-11-02 12:00
-- 2026-11-03 · Ruido Perlin: cómo Minecraft genera mundos infinitos · `11_ruido_perlin/` · IG + TikTok (con música) · programado 2026-11-03 12:00
+- 2026-11-03 · Ruido Perlin: cómo Minecraft genera mundos infinitos · `11_ruido_perlin/` · IG + TikTok (con música) · IG publicado 12:00 · TikTok corregido a JPG, reprogramado 2026-11-03 13:10 (con PNG fallaba)
+- 2026-11-04 · Cómo leer un error antes de pegarlo en la IA · `12_leer_errores/` · IG + TikTok (JPG, música) · programado 2026-11-04 10:00
