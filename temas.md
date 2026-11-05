@@ -4,7 +4,6 @@ Al publicar uno, muévelo a "Publicados" con la fecha y la carpeta.
 No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué puede hacer, vender tu primera web, Claude mejora tu web, Sonnet vs Opus vs Haiku, buenos prompts, bug del sticky header, mejores IAs de paga/gratis 2026).
 
 ## Pendientes
-- Qué es un agente de IA y en qué se diferencia de un chatbot
 - Modo oscuro bien hecho vs mal hecho
 - Hitboxes: por qué "te dieron" sin tocarte
 - Context window: por qué la IA "olvida" en chats largos
@@ -22,3 +21,4 @@ No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué p
 - 2026-11-02 · La regla de 2 fuentes en diseño web · `10_regla_2_fuentes/` · IG publicado 12:00 · TikTok falló con PNG, corregido a JPG y reprogramado 2026-11-03 13:25
 - 2026-11-03 · Ruido Perlin: cómo Minecraft genera mundos infinitos · `11_ruido_perlin/` · IG + TikTok (con música) · IG publicado 12:00 · TikTok corregido a JPG, reprogramado 2026-11-03 13:10 (con PNG fallaba)
 - 2026-11-04 · Cómo leer un error antes de pegarlo en la IA · `12_leer_errores/` · IG + TikTok (JPG, música) · programado 2026-11-04 10:00
+- 2026-11-05 · Qué es un agente de IA y en qué se diferencia de un chatbot · `13_agente_vs_chatbot/` · IG + TikTok (JPG, música) · programado 2026-11-05 10:00
