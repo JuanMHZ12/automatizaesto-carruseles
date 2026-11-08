@@ -4,7 +4,6 @@ Al publicar uno, muévelo a "Publicados" con la fecha y la carpeta.
 No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué puede hacer, vender tu primera web, Claude mejora tu web, Sonnet vs Opus vs Haiku, buenos prompts, bug del sticky header, mejores IAs de paga/gratis 2026).
 
 ## Pendientes
-- Hitboxes: por qué "te dieron" sin tocarte
 - Context window: por qué la IA "olvida" en chats largos
 - Responsive en 3 reglas de CSS (flex, grid, clamp)
 
@@ -22,3 +21,4 @@ No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué p
 - 2026-11-04 · Cómo leer un error antes de pegarlo en la IA · `12_leer_errores/` · IG + TikTok (JPG, música) · programado 2026-11-04 10:00
 - 2026-11-05 · Qué es un agente de IA y en qué se diferencia de un chatbot · `13_agente_vs_chatbot/` · IG + TikTok (JPG, música) · programado 2026-11-05 10:00
 - 2026-11-06 · Modo oscuro bien hecho vs mal hecho · `14_modo_oscuro/` · IG + TikTok (JPG, música) · programado 2026-11-07 10:00 (la tarea corrió 10:24, ya había pasado la hora de hoy)
+- 2026-11-08 · Hitboxes: por qué "te dieron" sin tocarte · `15_hitboxes/` · IG + TikTok (JPG, música) · programado 2026-11-08 10:00
