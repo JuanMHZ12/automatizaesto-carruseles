@@ -3,7 +3,35 @@
 Al publicar uno, muévelo a "Publicados" con la fecha y la carpeta.
 No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué puede hacer, vender tu primera web, Claude mejora tu web, Sonnet vs Opus vs Haiku, buenos prompts, bug del sticky header, mejores IAs de paga/gratis 2026).
 
-## Pendientes
+## Calendario (plan gratis de Metricool: NO diario)
+Cada fila = un carrusel (7 láminas) en IG + TikTok a las 10:00 America/Lima en esa fecha. Al publicarlo, mover a 'Publicados'.
+Noviembre: 18, 25 y 30. Diciembre: 20 publicaciones (2 días sí, 1 no): 2,3,5,6,8,9,11,12,14,15,17,18,20,21,23,24,26,27,29,30.
+
+| Fecha | Tema |
+|---|---|
+| 2026-11-18 | Qué es un token en IA y por qué importa |
+| 2026-11-25 | Game feel: los pequeños efectos que hacen divertido un juego |
+| 2026-11-30 | z-index: por qué no funciona (position y contextos de apilamiento) |
+| 2026-12-02 | Contraste de color en web: la regla de 4.5:1 |
+| 2026-12-03 | Qué es RAG: darle tus documentos a la IA |
+| 2026-12-05 | Pathfinding con A*: cómo los enemigos encuentran el camino |
+| 2026-12-06 | Qué es una API (con la analogía del restaurante) |
+| 2026-12-08 | Temperature en los modelos de IA: creatividad vs precisión |
+| 2026-12-09 | Object pooling: reutilizar objetos para no bajar los FPS |
+| 2026-12-11 | Jerarquía visual en diseño web: tamaño, contraste y espacio |
+| 2026-12-12 | Fine-tuning vs prompt: cuándo usar cada uno |
+| 2026-12-14 | 3 causas de una web lenta (imágenes, scripts, fuentes) |
+| 2026-12-15 | Máquinas de estados: el cerebro simple de los enemigos |
+| 2026-12-17 | Qué es un embedding: cómo la IA entiende el significado |
+| 2026-12-18 | Variables CSS: modo claro y oscuro con custom properties |
+| 2026-12-20 | Wave Function Collapse: niveles que se generan solos |
+| 2026-12-21 | IA multimodal: texto, imagen y audio en un mismo modelo |
+| 2026-12-23 | Accesibilidad web: alt text y navegar solo con teclado |
+| 2026-12-24 | Level design: guiar al jugador con luz y color |
+| 2026-12-26 | Regex en 5 minutos |
+| 2026-12-27 | Modelos de difusión: cómo se generan imágenes con IA |
+| 2026-12-29 | Debugging: el patito de goma funciona |
+| 2026-12-30 | 5 atajos de VS Code que ahorran horas |
 
 ## Publicados
 - 2026-10-21 · Tu IA te está inventando código · `02_ia_inventa_codigo/` · https://www.instagram.com/p/DeyGoFiCgQZ/
