@@ -22,3 +22,4 @@ No repetir temas que ya tienen video en `../TikTok/01_Proyectos/` (Claude qué p
 - 2026-11-08 · Hitboxes: por qué "te dieron" sin tocarte · `15_hitboxes/` · IG + TikTok (JPG, música) · programado 2026-11-08 10:00
 - 2026-11-09 · Context window: por qué la IA "olvida" en chats largos · `16_context_window/` · IG + TikTok (JPG, música) · programado 2026-11-09 10:00
 - 2026-11-11 · Responsive en 3 reglas de CSS (flex, grid, clamp) · `17_responsive_css/` · IG + TikTok (JPG, música) · programado 2026-11-12 10:00 (la tarea corrió 16:22, ya había pasado la hora de hoy)
+- 2026-11-13 · Prompt injection: cómo engañar a una IA con texto · `18_prompt_injection/` · IG + TikTok (JPG, música) · publicado a petición del usuario 2026-11-13 20:15 (la tarea diaria no corrió ese día)
