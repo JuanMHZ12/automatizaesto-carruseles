@@ -9,7 +9,6 @@ Noviembre: 18, 25 y 30. Diciembre: 20 publicaciones (2 días sí, 1 no): 2,3,5,6
 
 | Fecha | Tema |
 |---|---|
-| 2026-11-18 | Qué es un token en IA y por qué importa |
 | 2026-11-25 | Game feel: los pequeños efectos que hacen divertido un juego |
 | 2026-11-30 | z-index: por qué no funciona (position y contextos de apilamiento) |
 | 2026-12-02 | Contraste de color en web: la regla de 4.5:1 |
@@ -51,3 +50,4 @@ Noviembre: 18, 25 y 30. Diciembre: 20 publicaciones (2 días sí, 1 no): 2,3,5,6
 - 2026-11-09 · Context window: por qué la IA "olvida" en chats largos · `16_context_window/` · IG + TikTok (JPG, música) · programado 2026-11-09 10:00
 - 2026-11-11 · Responsive en 3 reglas de CSS (flex, grid, clamp) · `17_responsive_css/` · IG + TikTok (JPG, música) · programado 2026-11-12 10:00 (la tarea corrió 16:22, ya había pasado la hora de hoy)
 - 2026-11-13 · Prompt injection: cómo engañar a una IA con texto · `18_prompt_injection/` · IG + TikTok (JPG, música) · publicado a petición del usuario 2026-11-13 20:15 (la tarea diaria no corrió ese día)
+- 2026-11-18 · Qué es un token en IA y por qué importa · `19_tokens_ia/` · IG + TikTok (JPG, música) · programado 2026-11-18 10:00 (creado el 16/11)
